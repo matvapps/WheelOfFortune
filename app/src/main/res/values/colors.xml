@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff1744</color>
+    <color name="colorPrimaryDark">#8f021d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDivider">#54000000</color>
+
+    <color name="fortune_color_1">#7ad408</color>
+    <color name="fortune_color_2">#00be3f</color>
+    <color name="fortune_color_3">#11b9d6</color>
+    <color name="fortune_color_4">#0948d9</color>
+    <color name="fortune_color_5">#5207c8</color>
+    <color name="fortune_color_6">#b201c5</color>
+    <color name="fortune_color_7">#dc0039</color>
+    <color name="fortune_color_8">#d90d0a</color>
+    <color name="fortune_color_9">#ee6805</color>
+    <color name="fortune_color_10">#fad006</color>
+
+
+</resources>
