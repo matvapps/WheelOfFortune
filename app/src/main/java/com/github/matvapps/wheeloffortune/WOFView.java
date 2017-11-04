@@ -18,6 +18,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 
 import com.github.wheeloffortune.R;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
@@ -69,8 +70,8 @@ public class WOFView extends FrameLayout {
         circleView.setLayoutParams(layoutParams);
         outerImage.setLayoutParams(layoutParams);
 
-        backgroundImage.setImageResource(backgroundImageID);
-        outerImage.setImageResource(outerImageID);
+        Picasso.with(getContext()).load(backgroundImageID).into(backgroundImage);
+        Picasso.with(getContext()).load(outerImageID).into(outerImage);
 
         addView(backgroundImage);
         addView(circleView);
