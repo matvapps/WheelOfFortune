@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="fortune_colors">
+
+        <item>@color/fortune_color_1</item>
+        <item>@color/fortune_color_2</item>
+        <item>@color/fortune_color_3</item>
+        <item>@color/fortune_color_4</item>
+        <item>@color/fortune_color_5</item>
+        <item>@color/fortune_color_6</item>
+        <item>@color/fortune_color_7</item>
+        <item>@color/fortune_color_8</item>
+        <item>@color/fortune_color_9</item>
+        <item>@color/fortune_color_10</item>
+
+    </array>
+
+    <array name="fortune_colors_1">
+
+        <item>@color/fortune_color_1</item>
+        <item>@color/fortune_color_9</item>
+        <item>@color/fortune_color_10</item>
+
+    </array>
+
+</resources>

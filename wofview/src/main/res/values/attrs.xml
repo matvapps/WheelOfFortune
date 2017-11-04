@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="WOFView">
+
+        <attr name="wof_background" format="reference" />
+        <attr name="wof_outer" format="reference" />
+        <attr name="wof_marker" format="reference" />
+
+    </declare-styleable>
+
+
+    <declare-styleable name="CircleView">
+
+        <attr name="cv_sectors_count" format="integer" />
+
+    </declare-styleable>
+
+
+    <declare-styleable name="SectorView">
+
+        <attr name="sv_color_fill" format="color|reference" />
+        <attr name="sv_stroke_size" format="float" />
+        <attr name="sv_color_stroke" format="color|reference" />
+        <attr name="sv_angle" format="float" />
+        <attr name="sv_image" format="reference" />
+        <attr name="sv_angle_shift" format="float" />
+
+    </declare-styleable>
+
+
+</resources>
