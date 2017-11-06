@@ -1,6 +1,6 @@
 # WheelOfFortune
 
-![library preview]()
+<img src="https://i.imgur.com/SoEK3GU.jpg" width="340" height="600">
 
 Easy in use android library for creating wheel of fortune. With this library you
 can add a wheel of fortune to your app at the few lines of code.
