@@ -1,6 +1,8 @@
 # WheelOfFortune
 
-<img src="https://imgur.com/1Dx8Xep.jpg" width="340" height="600">
+<img src="/wof_preview.gif?raw=true" width="300px">
+<img src="/wof_preview_2.gif?raw=true" width="300px">
+
 
 Easy in use android library for creating wheel of fortune. With this library you
 can add a wheel of fortune to your app at the few lines of code.
