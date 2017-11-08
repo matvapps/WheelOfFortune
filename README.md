@@ -1,7 +1,10 @@
 # WheelOfFortune
 
-<img src="/wof_preview.gif?raw=true" width="300px">
-<img src="/wof_preview_2.gif?raw=true" width="300px">
+### Rotation using function / Rotation using swipe
+
+<img src="/wof_preview.gif?raw=true" width="310px">  <img src="/wof_preview_2.gif?raw=true" width="308px">
+
+
 
 
 Easy in use android library for creating wheel of fortune. With this library you
@@ -75,6 +78,13 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+```
+
+### Start wheel rotation:
+```java
+wofView.setSpeedRotate(float speed); // (optional) rotating speed - turnover per second
+wofView.setTimeRotate(float time); // (optional) rotating time - seconds
+wofView.startRotate();// start wheel rotating
 ```
 
 
